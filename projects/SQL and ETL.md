@@ -16,39 +16,3 @@ Each approach has a specific use case & specific advantages. If you've got a sup
 I got a little carried away with the CTEs, here.. and managed to beat over 80% of the other solutions!
 
 <img src="https://github.com/HubBry/Portfolio/blob/main/images/leetcode%20CTE.png" />
-
-My solution:
-/* Write your T-SQL query statement below */
-with mach_end as
-(select machine_id, process_id, [timestamp] as time_e from Activity where activity_type='end'
---and machine_id=0
-)
-
-,mach_start as
-(select machine_id, process_id, [timestamp] as time_s from Activity where activity_type='start'
---and machine_id=0
-)
-
-,base_table as
-(
-select
-e.machine_id
-,e.process_id
-,time_e-time_s as process_time
-
-from mach_end e left outer join mach_start s on e.machine_id=s.machine_id and e.process_id=s.process_id
-)
-
-,presummary as
-(
-select
-machine_id
-,count(process_id) as processes
-,sum(process_time) as P_time
-
-from base_table
-
-group by machine_id
-)
-
-select machine_id, round((P_time/processes), 3) as processing_time from presummary
