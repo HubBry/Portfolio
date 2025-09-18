@@ -13,10 +13,9 @@ I want to keep working with teams to satisfy customer reporting requirements and
 |-----------------------------------------------|----------------------------|
 | Transformation with SQL scripting          | <a href="https://google.com">Detection Lab</a>|
 | Power BI Semantic Models | <a href="https://google.com">Detection Lab</a>|
-| Video for training & demonstration         | <a href="https://youtu.be/kVJzCenDjP8">Power BI AI</a><img src="https://github.com/HubBry/Portfolio/images/PBIAI.png" alt="Alt text" width="500" height="300">|
+| Video for training & demonstration         |[![Watch the video](https://img.youtube.com/vi/kVJzCenDjP8/0.jpg)](https://www.youtube.com/watch?v=kVJzCenDjP8)|
 | Security projects      | Log visuals - Coming soon!|
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kVJzCenDjP8?si=cBP1RIl4JQNaJLfz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Tools
 <div>
