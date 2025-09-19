@@ -23,21 +23,24 @@ I want to keep working with teams to satisfy customer reporting requirements and
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-black?style=for-the-badge&logo=nmap&logoColor=green" />
     <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CyberChef-black?style=for-the-badge&logo=cyberchef&logoColor=21759B" />
+    <img src="https://img.shields.io/badge/VirusTotal-31A354?style=for-the-badge&logo=virustotal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Shodan-1A3945?style=for-the-badge&logo=shodan&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-7F1125?style=for-the-badge&logo=metasploit&logoColor=white" />
+    
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/NuCamp-Cybersecurity%20Analyst-316281?style=for-the-badge" />
-    
-<img src="![NuCamp Logo](https://img.shields.io/badge/nu-0096db.svg?style=for-the-badge&labelColor=white&color=white)![NuCamp Logo](https://img.shields.io/badge/camp-a83da3.svg?style=for-the-badge&labelColor=white&color=white)![Cybersecurity Analyst Badge](https://img.shields.io/badge/-Cybersecurity%20Analyst-316281?style=for-the-badge)" />
-
-
+<img src="https://img.shields.io/badge/NuCamp-Ethical%20Hacker-316281?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Certified-Microsoft%20Office%20Specialist-217346?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 
 
 </div>
-
 
 
 ## Projects
