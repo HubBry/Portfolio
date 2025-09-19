@@ -1,4 +1,4 @@
-# Hey, it's Brian Miclette, here!
+# Hey, it's Brian Miclette, here 👋
 <a href="https://www.linkedin.com/in/brianmiclette/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm a creative and resourceful data engineer, report developer and cybersecurity advisor with a diverse work history looking to provide support for operations integration, and innovation. 
