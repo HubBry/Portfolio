@@ -45,5 +45,5 @@ I enjoy working with teams to satisfy customer reporting requirements and strive
 
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Browser extensions (coming soon!)
+- System & Security log visuals (coming soon!)
