@@ -8,8 +8,7 @@ Here's where these things intersect:
 Power Query is such an effective no-code/low-code solution for connecting to and gathering intelligence, then transforming it for analysis.
 Sometimes the intelligence to gather takes the form of non-standardized working documents for humans with eyes-on-screen.
 
-### What's the best way to overcome window dressing designed for humans? 
-### Power BI AI
+### What's the best way to overcome window dressing designed for humans? Power BI AI
 [![Watch the video](https://img.youtube.com/vi/kVJzCenDjP8/0.jpg)](https://www.youtube.com/watch?v=kVJzCenDjP8)
 
 ## Shorts
