@@ -10,12 +10,12 @@ I enjoy working with teams to satisfy customer reporting requirements and strive
 
 
 
-| Skill                                         | Associated Projects         |
-|-----------------------------------------------|----------------------------|
+| Skill                                      | Associated Projects         |
+|--------------------------------------------|----------------------------|
 | Transformation with SQL scripting          | <a href="https://github.com/HubBry/Portfolio/blob/main/projects/SQL%20and%20ETL.md">SQL and ETL</a>|
-| Power BI Semantic Models | <a href="https://google.com">Detection Lab</a>|
-| Video and other Media         |[![Watch the video](https://img.youtube.com/vi/kVJzCenDjP8/0.jpg)](https://www.youtube.com/watch?v=kVJzCenDjP8)|
-| Security projects      | Log visuals - Coming soon!|
+| Power BI Semantic Models                   | <a href="https://github.com/HubBry/Portfolio/blob/main/projects/PBI.md">.PBIX for Download</a>|
+| Video and other Media                      |<a href="https://github.com/HubBry/Portfolio/blob/main/projects/demos.md">Demonstrations, Walkthroughs...</a>|
+| Security projects                          | Log visuals - Coming soon!|
 
 
 ## Tools
