@@ -16,5 +16,8 @@ Sometimes the intelligence to gather takes the form of non-standardized working 
 ROWNUMBER() is one of my go-to's and I believe an unsung hero in ETL. Its still a somewhat new (as of today about 2 years old) function in DAX, but its so great to have it there!
 
 ### The mighty, mighty ROWNUMBER()
+https://github.com/user-attachments/assets/aaa6bb6a-6055-4ae2-9852-dadb75a716de
+
+
 
 
