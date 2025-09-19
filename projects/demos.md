@@ -1,6 +1,7 @@
 # Demonstrations, Walkthroughs, and Training
 
-I've been surprised at the robustness of the <a href="https://leetcode.com/">LeetCode platform</a>, and I've got a few examples of the <a href="https://leetcode.com/studyplan/top-sql-50/">SQL 50!</a>
+I love these technologies, enjoy showing people what I do and talking to them about it, and video editing has brought much joy into my life!
+Here's where these things intersect:
 
 ## Video
 
@@ -9,6 +10,7 @@ Sometimes the intelligence to gather takes the form of non-standardized working 
 
 ### What's the best way to overcome window dressing designed for humans? 
 ### Power BI AI
+
 
 ## Shorts
 
