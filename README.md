@@ -30,6 +30,8 @@ I want to keep working with teams to satisfy customer reporting requirements and
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/NuCamp-Cybersecurity%20Analyst-316281?style=for-the-badge" />
+    
+<img src="![NuCamp Logo](https://img.shields.io/badge/nu-0096db.svg?style=for-the-badge&labelColor=white&color=white)![NuCamp Logo](https://img.shields.io/badge/camp-a83da3.svg?style=for-the-badge&labelColor=white&color=white)![Cybersecurity Analyst Badge](https://img.shields.io/badge/-Cybersecurity%20Analyst-316281?style=for-the-badge)" />
 
 
 
