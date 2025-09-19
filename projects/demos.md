@@ -19,10 +19,11 @@ ROWNUMBER() is one of my go-to's and I believe an unsung hero in ETL. Its still 
 ### The mighty, mighty ROWNUMBER()
 https://github.com/user-attachments/assets/aaa6bb6a-6055-4ae2-9852-dadb75a716de
 
+
 Ah the Sankey. I've heard it referred to as a spaghetti chart. 
 Pfui. 
 Show the sankey some love!
-<div>
+
 ### In appreciation of the Sankey
 https://github.com/user-attachments/assets/a75c340f-47a0-40a3-a815-827ec279ef06
 
