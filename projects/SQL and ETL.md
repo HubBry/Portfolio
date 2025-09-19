@@ -4,7 +4,7 @@ I've been surprised at the robustness of the <a href="https://leetcode.com/">Lee
 
 ## SQL 50
 
-The SQL 50 is a great collection of challenges that require skill in applying basic joins, select statements, aggregate functions, subqueries, strings... with a whiole host of solutions and guidance available from the very active community.
+The SQL 50 is a great collection of challenges that require skill in applying basic joins, select statements, aggregate functions, subqueries, strings... with a whole host of solutions and guidance available from the very active community.
 
 As I progress through I'll add more, but these were fun so far!
 
